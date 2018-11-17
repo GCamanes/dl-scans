@@ -9,7 +9,6 @@
 
 ## IMPORT
 import os, sys, getopt, argparse
-import pandas as pd
 
 ## CONSTANT VARIABLES
 PATH = "."
